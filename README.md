@@ -58,6 +58,13 @@ don't eat it, it should rot away. Perhaps this is the intuition underlying the a
 'eternal recurrence' (_ewige Wiederkehr_) as the highest principle of all being, simply
 does not know what it is talking about." [p 97]
 
+#### 14 Labor and fertility
+
+"The sudden, spectacular rise of labor" from a thing that slaves do to the source of all
+value under some economic theories, "began when Locke discovered that labor is the source
+of all property." [p 101]. This sentence makes sense only after property transitioned from
+land to mountains of things.
+
 #### 17 A consumers' society
 
 On lying (aka fabrication) requiring an element of freedom:
