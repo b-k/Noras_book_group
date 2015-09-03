@@ -74,7 +74,15 @@ maintenance--bk] of one's own life' which assured the survival of the individual
 directly link this with her labor v work distinction, though they seem parallel.
 
 
+#### 16 The instruments of work and the division of labor
+
+p 124: the big problem now that we have robots to do all production is that consumption
+must still be done by one person. "the solution seems to be ... that a chair or a table is
+now consumed as rapidly as a dress and a dress used up almost as quickly as food."
+
 #### 17 A consumers' society
+
+BK: largely a blog entry; could be skipped without loss of continuity.
 
 On lying (aka fabrication) requiring an element of freedom:
 "'the belief that a slave is unable to tell the truth except on the rack' (Barrow, op cit
