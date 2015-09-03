@@ -29,7 +29,32 @@ in which "privacy" is linked back to "deprived"
 
 ## V Action
 
+#### 33 Irreversibility and the power to forgive
+
+"men are unable to forgive what they cannot punish and that they are unable to punish what
+has turned out to be unforgivable" [p 241], which Arendt uses to define "radical evil".
+
 ## VI The _vita activa_ and the modern age
+
+"He found the Archimedian point, but he used it against himself; it seems that he was
+permitted to find it only under this condition." F Kafka, p 248. This opening is so
+perfect that I wonder which came first, Arendt seeing this line or Arendt writing the
+chapter.
+
+#### 35 World alienation (⇐band name idea)
+
+p 255, footnote 5 advocates for a guaranteed minimum wage.
+
+#### 36 The discovery of the Archimedean point
+
+In which the telescope is credited with ushering in modernity
+
+#### 37 Universial versus natural science
+
+"the curious discrepancy between the mood of modern philosophy, which from the beginning
+had been predominantly pessimistic, and the mood of modern science, which until very
+recently had been so bouyantly optimistic, has been bridged. There seems to be little
+cheerfulness left in either of them." [p 273]
 
 #### 38 The rise of Cartesian doubt
 
