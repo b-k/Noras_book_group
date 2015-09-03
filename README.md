@@ -5,6 +5,10 @@ Notes on Hanna Arendt's _Human Condition_ for our book group
 
 ¡Sputnik!
 
+Interesting: "This future man, whom the scientists tell us they will produce in no more than a hundred years, seems to be possessed by a rebellion against human existence as it has been given, a free gift from nowhere (secularly speaking), which he wishes to exchange, as it were, for something he has made himself." [Prologue 2]
+
+Interesting: "Men in the plural, that is, men in so far as they live and move and act in this world, can experience meaningfulness only because they can talk with and make sense to each other and to themselves." [Prologue 4]
+
 ## I The human condition
 
 Arendt introduces the difference between labor, work, and action.
