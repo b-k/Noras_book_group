@@ -5,9 +5,12 @@ Notes on Hanna Arendt's _Human Condition_ for our book group
 
 ¡Sputnik!
 
-Interesting: "This future man, whom the scientists tell us they will produce in no more than a hundred years, seems to be possessed by a rebellion against human existence as it has been given, a free gift from nowhere (secularly speaking), which he wishes to exchange, as it were, for something he has made himself." [Prologue 2]
+NA "This future man, whom the scientists tell us they will produce in no more than a hundred years, seems to be possessed by a rebellion against human existence as it has been given, a free gift from nowhere (secularly speaking), which he wishes to exchange, as it were, for something he has made himself." [Prologue 2]
 
-Interesting: "Men in the plural, that is, men in so far as they live and move and act in this world, can experience meaningfulness only because they can talk with and make sense to each other and to themselves." [Prologue 4]
+NA "Men in the plural, that is, men in so far as they live and move and act in this world, can experience meaningfulness only because they can talk with and make sense to each other and to themselves." [Prologue 4]
+
+NA "It is like the distinction between war and peace: just as war takes place for the sake of peace, thus every
+kind of activity, even the processes of mere thought, must culminate in the absolute quiet of contemplation." Beautiful. [Prologue 15]
 
 ## I The human condition
 
