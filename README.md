@@ -29,6 +29,12 @@ in which "privacy" is linked back to "deprived"
 
 ## V Action
 
+#### 31 The traditional substitution of making for acting
+
+"The classic author on this matter is still Adam Smith, to whom the only legitimate
+function of government is 'the defence of the rich against the poor, or of those who have
+some property against those who have none at all.' (op.cit., II, 198ff; for the quotation see II, 203)." [p 220, fn56.]
+
 #### 32 The process character of action
 
 Because action is social, and we can't control others, all action has unpredictable
