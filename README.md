@@ -48,6 +48,9 @@ lifted the slave owners into freedom.
 
 #### 13 Labor and life
 
+Labor is tied in with the cyclical and short-lived; work is linear (the thing you are
+        making is eventually done) and more persistent.
+
 Things that are necessary for life are expected to be more ephemeral than we are---if we
 don't eat it, it should rot away. Perhaps this is the intuition underlying the aversion to perservative-heavy food.
 
