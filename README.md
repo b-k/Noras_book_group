@@ -27,6 +27,26 @@ in which "privacy" is linked back to "deprived"
 
 ## IV Work
 
+#### 13 Labor and life
+"A philosophy of life that does not arrive, as did Nietzsche, at the affirmation of
+'eternal recurrence' (_ewige Wiederkehr_) as the highest principle of all being, simply
+does not know what it is talking about." [p 97]
+
+#### 17 A consumers' society
+
+On lying (aka fabrication) requiring an element of freedom:
+"'the belief that a slave is unable to tell the truth except on the rack' (Barrow, op cit
+p 31)—is quite erroneous. The belief, on the contrary, is that nobody can invent a lie
+under torture." [p 129]
+
+"The hope that inspired Marx ... rests on the illusion of a mechanistic philosophy which
+assumes that labor power, like any other energy, can never be lost, so that if it is not
+spent and exhausted in the drudgery of life it will automatically nourish other, 'higher', activities." [p 133, on Marx predating the invention of television]
+
+#### 22 The exchange market
+
+p 164, on the subjectivity of value ⇒ with no public realm, there are no prices.
+
 ## V Action
 
 #### 31 The traditional substitution of making for acting
