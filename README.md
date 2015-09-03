@@ -16,15 +16,15 @@ Arendt introduces the difference between labor, work, and action.
 
 #### 2. the term _vita activa_
 
+NA "It is like the distinction between war and peace: just as war takes place for the sake of peace, thus every
+kind of activity, even the processes of mere thought, must culminate in the absolute quiet of contemplation." Beautiful. [p 15]
+
 "This is mortality: to move along a rectilinear line in a universe where everything, if it
 moves at all, moves in a cyclical order." [p 19]
 
 ## II The public and private realm
 
 Labor (the unpleasant necessities) is pushed to the private realm, and ideally to slaves.
-
-NA "It is like the distinction between war and peace: just as war takes place for the sake of peace, thus every
-kind of activity, even the processes of mere thought, must culminate in the absolute quiet of contemplation." Beautiful. [p 15]
 
 #### 5. the _polis_ and the household
 
