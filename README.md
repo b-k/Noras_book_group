@@ -65,6 +65,12 @@ value under some economic theories, "began when Locke discovered that labor is t
 of all property." [p 101]. This sentence makes sense only after property transitioned from
 land to mountains of things.
 
+p 106 praises Marx for distinguishing between labor for "'reproduction [i.e.,
+maintenance--bk] of one's own life' which assured the survival of the individual" and
+'begetting', the product of surplus labor power to produce 'foreign life'. Arendt doesn't
+directly link this with her labor v work distinction, though they seem parallel.
+
+
 #### 17 A consumers' society
 
 On lying (aka fabrication) requiring an element of freedom:
