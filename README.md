@@ -47,6 +47,10 @@ lifted the slave owners into freedom.
 ## IV Work
 
 #### 13 Labor and life
+
+Things that are necessary for life are expected to be more ephemeral than we are---if we
+don't eat it, it should rot away. Perhaps this is the intuition underlying the aversion to perservative-heavy food.
+
 "A philosophy of life that does not arrive, as did Nietzsche, at the affirmation of
 'eternal recurrence' (_ewige Wiederkehr_) as the highest principle of all being, simply
 does not know what it is talking about." [p 97]
