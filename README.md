@@ -10,7 +10,6 @@ Notes on Hanna Arendt's _Human Condition_ for our book group
 Arendt introduces the difference between labor, work, and action.
 
 
-
 #### 2. the term _vita activa_
 
 "This is mortality: to move along a rectilinear line in a universe where everything, if it
@@ -18,12 +17,20 @@ moves at all, moves in a cyclical order." [p 19]
 
 ## II The public and private realm
 
+Labor (the unpleasant necessities) is pushed to the private realm, and ideally to slaves.
+
 #### 5. the _polis_ and the household
 
-in which "privacy" is linked back to "deprived"
+#### 8 The private realm: property
+
+In which "privacy" is linked back to (social) deprivation.
+
+Over the course of this, property slides from being a piece of land, and therefore a
+physical place in the public realm, to being mountains of things.
 
 ## III Labor
 
+"In the following chapter, Karl Marx will be criticized." [p 79]
 
 ## IV Work
 
