@@ -9,9 +9,6 @@ NA "This future man, whom the scientists tell us they will produce in no more th
 
 NA "Men in the plural, that is, men in so far as they live and move and act in this world, can experience meaningfulness only because they can talk with and make sense to each other and to themselves." [Prologue 4]
 
-NA "It is like the distinction between war and peace: just as war takes place for the sake of peace, thus every
-kind of activity, even the processes of mere thought, must culminate in the absolute quiet of contemplation." Beautiful. [Prologue 15]
-
 ## I The human condition
 
 Arendt introduces the difference between labor, work, and action.
@@ -25,6 +22,9 @@ moves at all, moves in a cyclical order." [p 19]
 ## II The public and private realm
 
 Labor (the unpleasant necessities) is pushed to the private realm, and ideally to slaves.
+
+NA "It is like the distinction between war and peace: just as war takes place for the sake of peace, thus every
+kind of activity, even the processes of mere thought, must culminate in the absolute quiet of contemplation." Beautiful. [p 15]
 
 #### 5. the _polis_ and the household
 
