@@ -32,6 +32,14 @@ physical place in the public realm, to being mountains of things.
 
 "In the following chapter, Karl Marx will be criticized." [p 79]
 
+#### 11 "The labour of our body and the work of our hands"
+
+p. 80: every European language has two terms corresponding to labor and work.
+
+Arendt begins to refer to _animal laborans_ and _homo faber_. pp 83--84 discuss how being
+forced to deal with necessity is effectively being enslaved; having slaves do the work
+lifted the slave owners into freedom.
+
 ## IV Work
 
 #### 13 Labor and life
