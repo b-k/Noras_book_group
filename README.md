@@ -29,7 +29,16 @@ in which "privacy" is linked back to "deprived"
 
 ## V Action
 
+#### 32 The process character of action
+
+Because action is social, and we can't control others, all action has unpredictable
+consequences. "Nowehere, in other words, ... does man appear to be less free than in those
+capacities whose very essence is freedom." [p 234]
+
 #### 33 Irreversibility and the power to forgive
+
+A follow-up to 32, that things set in a bad course can more or less be forgiven and
+forgotten.
 
 "men are unable to forgive what they cannot punish and that they are unable to punish what
 has turned out to be unforgivable" [p 241], which Arendt uses to define "radical evil".
