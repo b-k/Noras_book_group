@@ -31,9 +31,14 @@ in which "privacy" is linked back to "deprived"
 
 ## VI The _vita activa_ and the modern age
 
-#### 39 introspection and the loss of common senseo
+#### 38 The rise of Cartesian doubt
 
 In which Descartes introduces fundamental doubt.
+
+"intelligibility to human understanding does not at all constitute a demonstration of
+truth, just as visibility did not at all constitute proof of reality." [p 275]
+
+#### 39 introspection and the loss of common sense
 
 #### 40 Thought and the modern world
 
