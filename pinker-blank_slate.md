@@ -12,3 +12,12 @@ Pinker mentions a few philosophers of centuries past:
 
 To this point the terms embody cartoon concepts, if only because they're being written about by people
 who predate almost all of modern science.
+
+## 2. Silly putty
+First part discusses the advent in the early 1900s of stimulus-response experiments that showed
+just how malleable certain behaviors can be. He then presents a series of commentators who say
+things about how so much is explained by stimulus-response.
+
+Second part talks culture, which is the source of so many stimuli. He puts forth a page of authors
+of scientific and fictional works, mostly from the 1930s to 1970s, talking about how our personalities
+are determined by cultural context.
