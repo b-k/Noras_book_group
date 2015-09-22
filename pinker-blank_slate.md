@@ -42,3 +42,27 @@ Here's Pinker's outline for the chapter:
     * Phineas Gage is mentioned here.
 * behavioral genetics
 * evolutionary psychology, the study of the phylogenetic history and adaptive functions of the mind
+
+## 4. Culture vultures
+
+Starts with a discussion of theory of mind, and from there diverges to a discussion of how
+culture evolves via emulation and learning, with a smattering of game theory. Concludes
+with a discussion of how some cultures advanced faster than others because they were in a
+better position (typically geographic position) for interconnecting with and learning from
+neighbors.
+
+## 5. The slate's last stand
+
+BK: up to p 90, this chapter had some surprisingly weak arguments; recommend the time-pressed reader skip it.
+
+### genetics
+About how there are fewer genes, by a certain count, than had been expected, by a certain
+count. That opened the way to some people commenting on how this indicates that we're less
+hard-wire structured than expected. He seems to be rebutting bloggers here.
+
+### neural networks.
+As of the writing in 2003, neural network research hadn't progressed very far and wasn't
+doing incredibly well. Pinker concludes that it is too reductionist and can't work.
+
+### neural plasticity
+This is just another word for `learning', so why worry about it.
