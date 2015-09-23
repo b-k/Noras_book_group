@@ -51,6 +51,9 @@ with a discussion of how some cultures advanced faster than others because they 
 better position (typically geographic position) for interconnecting with and learning from
 neighbors.
 
+Concludes with a note about how great it is that we can simultaneously study multiple
+layers of a problem, some more reductionist and some more high-level.
+
 ## 5. The slate's last stand
 
 BK: up to p 90, this chapter had some surprisingly weak arguments; recommend the time-pressed reader skip it.
@@ -66,3 +69,14 @@ doing incredibly well. Pinker concludes that it is too reductionist and can't wo
 
 ### neural plasticity
 This is just another word for `learning', so why worry about it.
+
+# Part II
+
+BK: all of Part II is skippable.
+
+Just as chapter 5 is a refutation of the extreme arguments from the reductionist side,
+this entire part refutes extreme arguments from the side that pushes a virtuous soul,
+including the Politically Correct who didn't fully understand the implications of
+sociobiology and anthropology, and the religious right who fear that the soul will
+disappear in a cloud of neurons. A lot of the people being refuted are extremists who
+aren't worth the time and attention Pinker gives them.
