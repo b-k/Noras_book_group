@@ -80,3 +80,12 @@ including the Politically Correct who didn't fully understand the implications o
 sociobiology and anthropology, and the religious right who fear that the soul will
 disappear in a cloud of neurons. A lot of the people being refuted are extremists who
 aren't worth the time and attention Pinker gives them.
+
+# Part III
+
+Things Pinker promises to refute:
+
+* If people are innately different, oppression and discrimination would be justified.
+* If people are innately immoral, hopes to improve the human condition would be futile.
+* If people are products of biology, free will would be a myth and we could no longer hold people responsible for their actions.
+* If people are products of biology, life would have no higher meaning and purpose.
