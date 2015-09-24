@@ -89,3 +89,11 @@ Things Pinker promises to refute:
 * If people are innately immoral, hopes to improve the human condition would be futile.
 * If people are products of biology, free will would be a myth and we could no longer hold people responsible for their actions.
 * If people are products of biology, life would have no higher meaning and purpose.
+
+## 8. fear of inequality
+
+Addresses the first bullet point above. Finally, the Nazis show up. Pinker argues 
+against guilt-by-association arguments ('the Nazis said this so it must be false').
+He points out that other genocidal regimes actually believed the opposite line, that
+man is born a blank slate, and still wound up in the same place. Also, thta Hitler 
+probably read a lot of Marx.
