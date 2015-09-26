@@ -1,3 +1,6 @@
+
+Recommended subset so far: Chapters 1, 2, 8--11
+
 # Preface
 
 Seems skippable. Can we acknowledge genetic predispositions without falling into racism and sexism? Find out in this book.
@@ -100,7 +103,7 @@ probably read a lot of Marx.
 
 ## 9.
 
-## 10. The Fear of Determinism
+## 10. fear of determinism
 Pinker dismisses that narratives about actions and retribution could be reduced to
 neuronal activity, and stresses their import. Spends several pages on the importance of
 retribution.  "The Victorian jurist James Stephen said that 'the criminal law bears the
@@ -112,4 +115,4 @@ entirely side-stepped: it doesn't really matter if the person's soul chose to do
 they were driven to it by a mechanistic brain, because both respond to incentives that
 punish them for failing to conform to social ideals.
 
-
+## 11. fear of nihilism
