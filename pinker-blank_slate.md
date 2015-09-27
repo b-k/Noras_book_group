@@ -153,9 +153,36 @@ in control either, as Pinker characterizes them.
 
 ## 13. out of our depths
 
+Opens with a really useful list of intuitive systems that seem innate [pp 220-1]:
 
+"
+* An intuitive physics, ...  not Newton's laws but something closer to the medieval conception of impetus.
+* An intuitive version of biology or natural history, ... that living things house a hidden essence that gives them their form and powers and drives their growth and bodily functions.
+* An intuitive engineering
+* [A theory of mind]
+* A spatial sense
+* A number sense
+* A sense of probability [BK: deeply flawed, as discussed in this chapter]
+* An intuitive economics, ... based on the concept of reciprocal exchange.
+* A mental database and logic, ...  based on assertions about what's what, what's where, or who did what to whom, when, where, and why. ... with logical and causal
+operators such as and, or, not, all, some, necessary, possible, and cause.
+* Language
+"
 
+The rest of the chapter talks about the policy implications of some of these:
 
+* Education should be about all the things that are _not_ on the list, or directly condradict our intuition. Teach statistics, not trigonometry, Pinker suggests.
+
+* A belief in the soul causes people to give in-or-out definitions for what should have rights and be defended in issues of abortion, euthenasia, and animal rights. But no one boundary is defensible, Pinker suggests, so the best we can do is pick the socially optimal boundary out of the given options.
+ "bioethicist Ronald Green ... notes that the shift from finding boundaries to choosing boundaries is a conceptual revolution of Copernican
+proportions. But the old conceptualization, which amounts to trying to pinpoint when the ghost enters the machine, is
+scientifically untenable and has no business guiding policy in the twenty-first century." [p 229]
+
+* Intuitions about essences and reproduction (which don't quite map to the list above) lead to people disliking GMOs and artificial flavors.
+
+* We live in a world of market prices that are much more sophisticated than anything one could express via the simple exchange-for-equals intuition.
+
+* There's an essay on how Malthus was wrong and better technology continues to save the day; I don't get how it fits in with the above.
 
 
 
