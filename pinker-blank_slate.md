@@ -116,3 +116,51 @@ they were driven to it by a mechanistic brain, because both respond to incentive
 punish them for failing to conform to social ideals.
 
 ## 11. fear of nihilism
+The argument seems to be: buck up and focus on the human scale. Don't be Woody Allen.
+
+### Part IV know thyself
+
+## 12. in touch w/reality
+
+Relativists: they suck.
+
+But the brain does twist reality, which we observe in optical illusions, at the least. So
+let's not get too carried away.
+
+Stereotypes of objectively measurable traits are often based on correct data. Pinker
+doesn't seem to say much about judgment about subjective characteristics (incl. `is qualified').
+
+Benjamin Whorf, student of Edward Sapir: "We cut nature up, organize it into concepts,
+and ascribe significances as we do, largely because we are parties to an agreement to
+organize it in this way — an agreement that holds throughout our speech community and
+is codified in the patterns of our language. The agreement is, of course, an implicit
+and unstated one, _but its terms are absolutely obligatory!_" [pp208-209]
+
+Pinker misses a wonderful opportunity with an offhand line from Tommy, the
+deaf-dumb-blind kid who plays pinball: ``Tommy doesn't know what day it is; he doesn't
+know who Jesus was or what prayin’ is.'' How would Tommy learn abstractions like
+these, and how would we verify that his abstraction matches that in the minds of
+sighted/hearing people? Are `Christmas' and `pizza' equally markers for physical
+categories; what about `reductionism'?
+
+Dutch auctions are actually bona fide auctions, still used in the Dutch tulip market.
+
+BK: this chapter hoplessly misses the point that images and categories can be influenced
+by external use. The Coca Cola Corp desperately wants you to picture their product when
+you think about `refreshment' or `thirst', and they seem largely successful with a broad
+portion of the population. This doesn't make consumers 100% passive, but they're not 100%
+in control either, as Pinker characterizes them. 
+
+## 13. out of our depths
+
+
+
+
+
+
+
+
+
+
+
+
