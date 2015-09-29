@@ -185,9 +185,36 @@ scientifically untenable and has no business guiding policy in the twenty-first 
 * There's an essay on how Malthus was wrong and better technology continues to save the day; I don't get how it fits in with the above.
 
 
+### 14 many roots of our suffering
 
+Game theory + genes
 
+* As per _the selfish gene_, altruism can be a mixed Nash equilibrium.
 
+* A lot of other attitudes toward sex can also be traced to maximizing
+resources toward the babies that so frequently arise from sexual
+contact. [combining with ch13, we conclude that Pinker believes that
+schoolchildren should be taught out of their intuitions regarding sex.]
+
+* Psychopathy is also a workable mixed Nash equilibrium, in a population of generally nice people.
+A set of psychopathic traits seem to arise in some people as a set.
+
+There's also something about self-delusion that doesn't seem to fit in with the genes and game theory theme.
+
+### 15 sanctimonious animal
+
+BK: Pinker really starts to get weird here in what he's judgy about. "Moral vegetarians
+are more likely to think that other peopleshould be vegetarians," as if this is some
+sort of magical thinking. "Smokers are banished and demonized, and the psychology of
+disgust and contamination is brought into play." Yes, because smoke _smells_. He is
+bothered that some things that have unpleasant externalities get enough press to get
+"moral coloring" and others don't get that far in people's consciousness.
+
+Other chapters cover where a common human characteristic comes from in terms of brain
+structure or game theory or genetics. But Pinker doesn't explain where moralizing
+comes from, just that it is stupendously common. He implies that it's on the rise,
+with lists of things that have recently become uncool, but it seems to be as much a
+universal as the other things he discusses.
 
 
 
