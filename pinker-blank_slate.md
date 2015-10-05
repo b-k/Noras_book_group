@@ -216,5 +216,13 @@ comes from, just that it is stupendously common. He implies that it's on the ris
 with lists of things that have recently become uncool, but it seems to be as much a
 universal as the other things he discusses.
 
+# V hot buttons
+
+"when facts tip over a sacred cow" [p281]
+
+## 16 politics
+
+Pinker describes conservatives as seeing a fundamentally limited, selfish humanity; liberals as a humanity limied only by existing social constraints.
+
 
 
