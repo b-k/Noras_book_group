@@ -57,3 +57,36 @@ special cases: by summing [income gap]^0, we get $H$, [income gap]^1 gives $I$, 
 oft-used [income gap]^2 gives extra stress to the especially poor. There's no serious
 micro-foundation for using a coefficient of 2, but is sure does make the equation look
 elegant, and lacking any micro-foundation, there's no reason not to use it.
+
+
+# 4: starvation and famines
+
+This is one of two interlude chapters to remind the reader of the author's thesis that 
+famine is not about food availability decline (FAD). Here, the key points made are that 
+starvation can happen without famine, and that declines in food production do not 
+necessarily imply famine, and that low food availability plus entitlement inequality 
+equals some people starving and some people doing fine.
+
+# 5: the entitlement approach
+
+Seems to be a rehash of the earlier discussion about how there are two ways you can fail 
+to afford enough food: lack of resource entitlement, and change in the exchange value of 
+your entitlement versus food. It seems to be repeated here to foreshadow the coming 
+chapters.
+
+# 6: The great Bengal famine
+
+Sen starts to present the data that the famine was not about FAD. There are several 
+points, which he attacks with many tables. 
+
+* The food decline was questionable, and in some cases the years of the famine showed higher food intake.
+* Sen tabulates changes in jobs, and finds a lot of people moving to lower-status jobs,
+	notably husking paddy, which he considers to be as low-grade as it gets. Switching to a low-pay job
+	immediately translates to lower access to food.
+* He alludes to policies that may have made matters worse, by rationing and the indication of a panic
+	which led to hoarding by those who had the bucks to do so.
+
+Because the chapter was so focused on arguing against the intuition of FAD, it didn't 
+spend much time answering the question of why the famine actually did happen. That is,
+how did the pieces presented fit together into a narrative that ended in famine?
+
