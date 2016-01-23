@@ -7,9 +7,21 @@ set comes from a largely abitrary set of rules of who owns what that have no ser
 foundations beyond historic accident.
 
 # 2 Concepts of poverty
+
 Q: Is it absolute or relative poverty that matters?
 
 A: both.
+
+## Modern Research (HH)
+
+There's a bunch of contemporary social science research on the relationships among poverty, stress, and decision-making.
+
+* http://www.npr.org/sections/health-shots/2014/07/14/330434597/this-is-your-stressed-out-brain-on-scarcity
+* http://www.theatlantic.com/business/archive/2013/11/your-brain-on-poverty-why-poor-people-seem-to-make-bad-decisions/281780/
+* https://www.princeton.edu/~joha/
+* (and many other citations from google searches)
+
+Maybe poverty should be defined by being in a psychological state where stress from food and other resources scarcity causes you to be unable to reliably make decisions well? 
 
 # 3 Poverty: identification and aggregation
 
