@@ -102,3 +102,34 @@ Because the chapter was so focused on arguing against the intuition of FAD, it d
 spend much time answering the question of why the famine actually did happen. That is,
 how did the pieces presented fit together into a narrative that ended in famine?
 
+# 7 The Ethiopian famine
+
+## 7.3 Wollo
+One region was especially hard-hit, but Table 7.4 shows that prices for grain and seeds in
+that region didn't go up. "People starved to death without there being a substantial rise
+in food price." [p 96] He debates with a theory that there were road blockages to contend
+with. Rather, those who were starving were largely farmers who could neither buy nor sell food
+at the market.
+
+
+## 7.4 Who?
+This section attempts to piece toghether additional evidence to back up that it was
+farmers who were hit by the famine. Sen is cautious and acknowledges that the data is OK
+at best.
+
+## 7.5
+BTW, the farmers often had hired hands, who were often given food/shelter for labor. With
+no work to do, they'd be let go, with zero economic power and really nowhere to go.
+
+## 7.6 Pastoralists
+I.e., animal herders, who were already being squeezed by the diminishing access to good
+grazing land, which was increasingy being turned into agricultural fields.
+
+Nobody lives on animal products alone; the animal herders still need to buy grains.
+Above, prices in Wollo had held steady, so we expect those animal herders may have done
+OK. But in other areas, the prices did shift unfavorably. Sen thus distinguishes between
+the Wollo famine, which hit plant-raising people, and the Southern famine, which hit
+animal-raising people.
+
+
+
