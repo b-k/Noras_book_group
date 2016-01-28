@@ -131,5 +131,16 @@ OK. But in other areas, the prices did shift unfavorably. Sen thus distinguishes
 the Wollo famine, which hit plant-raising people, and the Southern famine, which hit
 animal-raising people.
 
+# 8 The Sahel
 
+The Sahel is a semi-arid belt in West Africa, at the Southern end of the Sahara Desert;
+see map on p 130.
 
+## 8.2 FAD is right for once
+For once, there actually was a serious decline in food availability, making this famine a
+"comforting bosom" [p 118] for the FAD fans.
+
+## 8.3
+
+But we need something beyond FAD to explain who would be hardest hit. In this case, it was
+the animal-raising nomads, for reasons very similar to 7.6 above.
