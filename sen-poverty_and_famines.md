@@ -70,6 +70,12 @@ oft-used [income gap]^2 gives extra stress to the especially poor. There's no se
 micro-foundation for using a coefficient of 2, but is sure does make the equation look
 elegant, and lacking any micro-foundation, there's no reason not to use it.
 
+## Questions from HH
+
+* What's wrong with Bengal grams??
+* Is poverty an instantaneous state? Or do you have to be poor (by some definition) for a
+certain amount of time to count as impoverished?
+* What about debt and non-liquid assets? 
 
 # 4: starvation and famines
 
