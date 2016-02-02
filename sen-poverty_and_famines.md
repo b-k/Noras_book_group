@@ -108,6 +108,14 @@ Because the chapter was so focused on arguing against the intuition of FAD, it d
 spend much time answering the question of why the famine actually did happen. That is,
 how did the pieces presented fit together into a narrative that ended in famine?
 
+## HH thoughts
+
+* The paragraph of quotes from commissioners on p. 55 is remarkable. I hereby remark on it.
+* He mentions, briefly, that the famine might have been due to sharp inflation, apparently due
+to an overheated and poorly regulated wartime economy, where the Raj was printing money to get
+materiel for the war effort. It's interesting/bad how this boom/bust pattern works.
+* "Institutional arrangements, including wage systems, were slow to adjust to the new reality" -- p. 78.
+
 # 7 The Ethiopian famine
 
 ## 7.3 Wollo
@@ -136,6 +144,13 @@ Above, prices in Wollo had held steady, so we expect those animal herders may ha
 OK. But in other areas, the prices did shift unfavorably. Sen thus distinguishes between
 the Wollo famine, which hit plant-raising people, and the Southern famine, which hit
 animal-raising people.
+
+## HH thoughts
+
+* p. 99 talks about the interactions between mobility, and the ability/inclination to 
+move, and poverty. This is of current interest too: http://www.rstreet.org/op-ed/lets-move-a-better-approach-to-poverty/ and others. (I recall a more recent essay, but can't find it.)
+* The multiplier effect of various agricultural failures seems important. Is this less true for more diverse economies?
+* Animals seem like a terrible sort of weath, if their value collapses in case of famine. Poor pastoralists.
 
 # 8 The Sahel
 
