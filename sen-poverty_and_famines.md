@@ -165,3 +165,25 @@ For once, there actually was a serious decline in food availability, making this
 
 But we need something beyond FAD to explain who would be hardest hit. In this case, it was
 the animal-raising nomads, for reasons very similar to 7.6 above.
+
+## HH thoughts
+
+* [transhumance](https://en.wikipedia.org/wiki/Transhumance) -- pastoral lifestyle involving seasonal alternation of homes
+* Interesting discussion of how crop insurance needs to be set up (at the family level) to be effective. Traditional insurance methods such as storing meat on the hoof falls apart because of collapsing demand.
+
+# 9 Bangladesh, 1974
+
+* [langarkhana](https://en.wikipedia.org/wiki/Langar_Khana) -- place in an Islamic shrine where rice is cooked for the poor
+* Government imports collapsed during the worst of the famine because of US pressure to stop trading with Cuba.
+* There was actually a pretty good crop that year, despite the floods in June through September, and the worst parts of the famine happened in areas with the best crop yields.
+* Prices rose well before the floods happened. 
+* The hardest hit were laborers with minimal land assets, whose purchase power collapsed and who couldn't eat their labor. 
+* Explanation is not fully clear.
+ 
+# 10 Entitlements and Deprivation
+
+* "Whatever may be the oracular power of the FAD view, it is certainly Delphic in its reticence." Oh, snap!
+* Sen doesn't see overall issues with total food availability. 
+* Insteresting list of policy directions on p159.
+* Colonial non-interventionism during famines is the worst. Due to misunderstanding of Smith/capitalism. Lack of food actually reduces purchasing power, decreasing likelihood of imports, not increasing it.
+
