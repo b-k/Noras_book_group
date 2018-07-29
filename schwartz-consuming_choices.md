@@ -1,11 +1,11 @@
 Consuming Choices, David T Schwartz
 
-# Preface
+## Preface
 
 Seems skippable. What ethical approaches can be applied to the question of how culpable
 consumers are in the inevitable unethical acts committed by producers?
 
-# 1. Ethical consumerism
+## 1. Ethical consumerism
 
 A few introductory examples:
 
@@ -61,7 +61,7 @@ sexualizing clothing marketed to kids, ads encouraging people to over-imbibe) al
 fall into one of the above categories. He's probably right that some moral offenses really
 are subjective (remember the whole thing about how rock music leads to satanism?)
 
-# 3. Consumer as causal agent
+## 3. Consumer as causal agent
 
 The collective action problem, or as summarized on p 50: "if I don’t buy this morally
 tainted product, someone else will, and hence it makes no difference whether or not I buy it."
@@ -94,7 +94,7 @@ convince ten people to join you, your effect is not ε, but maybe 10ε.
 is truly infinitesimal, then the sum of a finite number of actions can't add to a
 positive, real effect. Therefore, the value of one action can't be truly infinitesimal.
 
-# 4. Consumer as complicit participant
+## 4. Consumer as complicit participant
 
 Setting aside the question of consequentialism, there's simple complicity: the bombing
 of Dresden happened because of bomber pilots, scientists and engineers, and cafeteria
@@ -123,7 +123,7 @@ I (BK) didn't get a lot of conclusions out of this one. A key point to carry int
 though, is that there's a continuous scale of complicity, depending on the organization,
 intent, and proximity in an abstract sense to the harm.
 
-# 5. Toward a practical consumer ethic
+## 5. Toward a practical consumer ethic
 
 Because complicity is continuous and not just guilt or innocence, it's a question of
 most effectively allocating resources to minimize bad effects.
